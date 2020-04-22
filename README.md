@@ -12,6 +12,8 @@ JavaScript && Swift
 
 [**7.Reverse Integer**](https://github.com/K-Kevin/LeetCode/blob/master/easy/7.Reverse%20Integer.md)
 
+[**88.Merge Sorted Array**](https://github.com/K-Kevin/LeetCode/blob/master/easy/88.Merge%20Sorted%20Array.md)
+
 #### medium
 
 [**2.Add Two Numbers**](https://github.com/K-Kevin/LeetCode/blob/master/medium/2.Add%20Two%20Numbers.md)
