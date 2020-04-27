@@ -14,6 +14,11 @@ JavaScript && Swift
 
 [**88.Merge Sorted Array**](https://github.com/K-Kevin/LeetCode/blob/master/easy/88.Merge%20Sorted%20Array.md)
 
+[**104.Maximum Depth of Binary Tree**](https://github.com/K-Kevin/LeetCode/blob/master/easy/Depth%20of%20Binary%20Tree.md)
+
+[**111.Minimum Depth of Binary Tree**](https://github.com/K-Kevin/LeetCode/blob/master/easy/Depth%20of%20Binary%20Tree.md)
+
+
 #### medium
 
 [**2.Add Two Numbers**](https://github.com/K-Kevin/LeetCode/blob/master/medium/2.Add%20Two%20Numbers.md)
