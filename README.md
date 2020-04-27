@@ -23,3 +23,4 @@ JavaScript && Swift
 
 [**2.Add Two Numbers**](https://github.com/K-Kevin/LeetCode/blob/master/medium/2.Add%20Two%20Numbers.md)
 
+[**15.3Sum**](https://github.com/K-Kevin/LeetCode/blob/master/medium/15.3Sum.md)
