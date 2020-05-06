@@ -24,6 +24,8 @@ JavaScript && Swift
 
 [**136. Single Number**](https://github.com/K-Kevin/LeetCode/blob/master/easy/136.Single%20Number.md)
 
+[**283. Move Zeroes**](https://github.com/K-Kevin/LeetCode/blob/master/easy/283.%20Move%20Zeroes.md)
+
 #### medium
 
 [**2.Add Two Numbers**](https://github.com/K-Kevin/LeetCode/blob/master/medium/2.Add%20Two%20Numbers.md)
