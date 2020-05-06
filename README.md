@@ -20,6 +20,10 @@ JavaScript && Swift
 
 [**20.Valid Parentheses**](https://github.com/K-Kevin/LeetCode/blob/master/easy/20.%20Valid%20Parentheses.md)
 
+[**26. Remove Duplicates from Sorted Array**](https://github.com/K-Kevin/LeetCode/blob/master/easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
+
+[**136. Single Number**](https://github.com/K-Kevin/LeetCode/blob/master/easy/136.Single%20Number.md)
+
 #### medium
 
 [**2.Add Two Numbers**](https://github.com/K-Kevin/LeetCode/blob/master/medium/2.Add%20Two%20Numbers.md)
