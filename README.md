@@ -18,6 +18,7 @@ JavaScript && Swift
 
 [**111.Minimum Depth of Binary Tree**](https://github.com/K-Kevin/LeetCode/blob/master/easy/Depth%20of%20Binary%20Tree.md)
 
+[**20.Valid Parentheses**](https://github.com/K-Kevin/LeetCode/blob/master/easy/20.%20Valid%20Parentheses.md)
 
 #### medium
 
