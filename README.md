@@ -20,11 +20,15 @@ JavaScript && Swift
 
 [**20.Valid Parentheses**](https://github.com/K-Kevin/LeetCode/blob/master/easy/20.%20Valid%20Parentheses.md)
 
-[**26. Remove Duplicates from Sorted Array**](https://github.com/K-Kevin/LeetCode/blob/master/easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
+[**26.Remove Duplicates from Sorted Array**](https://github.com/K-Kevin/LeetCode/blob/master/easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 
-[**136. Single Number**](https://github.com/K-Kevin/LeetCode/blob/master/easy/136.Single%20Number.md)
+[**136.Single Number**](https://github.com/K-Kevin/LeetCode/blob/master/easy/136.Single%20Number.md)
 
-[**283. Move Zeroes**](https://github.com/K-Kevin/LeetCode/blob/master/easy/283.%20Move%20Zeroes.md)
+[**283.Move Zeroes**](https://github.com/K-Kevin/LeetCode/blob/master/easy/283.%20Move%20Zeroes.md)
+
+[**53.Maximum Subarray**](https://github.com/K-Kevin/LeetCode/blob/master/easy/53.Maximum%20Subarray.md)🚀待优化
+
+[**121.Best Time to Buy and Sell Stock**](https://github.com/K-Kevin/LeetCode/blob/master/easy/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 
 #### medium
 
