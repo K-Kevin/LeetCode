@@ -32,6 +32,12 @@ JavaScript && Swift
 
 [**125.Valid Palindrome**](https://github.com/K-Kevin/LeetCode/blob/master/easy/125.Valid%20Palindrome.md)
 
+[**155.Min Stack**](https://github.com/K-Kevin/LeetCode/blob/master/easy/155.Min%20Stack.md)
+
+[**167.Two Sum II - Input array is sorted**](https://github.com/K-Kevin/LeetCode/blob/master/easy/167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
+
+[**169.Majority Element.md**](https://github.com/K-Kevin/LeetCode/blob/master/easy/169.Majority%20Element.md)
+
 #### medium
 
 [**2.Add Two Numbers**](https://github.com/K-Kevin/LeetCode/blob/master/medium/2.Add%20Two%20Numbers.md)
